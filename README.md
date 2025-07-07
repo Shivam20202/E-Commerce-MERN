@@ -2,6 +2,9 @@
 
 ShopZone is a full-featured MERN stack e-commerce application built with a clean, modern UI using Tailwind CSS and React. It includes user authentication, cart management, order placement, and an admin panel. The app is responsive, fast, and mobile-friendly.
 
+
+![Home Page](https://raw.githubusercontent.com/Shivam20202/E-Commerce-MERN/main/client/public/screen.png)
+
 ## ✨ Features
 
 - 🔐 User Authentication (Register/Login/Logout)
@@ -13,9 +16,6 @@ ShopZone is a full-featured MERN stack e-commerce application built with a clean
 - 🎨 Beautiful Animated UI with Framer Motion
 - 🔍 Search and Filter 
 
-## 🖼️ Screenshots
-
-![Home Page](https://raw.githubusercontent.com/Shivam20202/E-Commerce-MERN/main/client/public/screen.png)
 
 ## 📦 Tech Stack
 ### Frontend:
