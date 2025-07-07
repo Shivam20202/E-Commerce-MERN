@@ -60,17 +60,5 @@ npm install
 npm run dev
 ```
 
-## 🧪 Coming Soon
-
-- ✅ Product Filtering by Category
-- ✅ Search Functionality
-- ✅ Payment Gateway Integration
-- ✅ Wishlist and Ratings
-
-## 📄 License
-
-MIT License
-
----
 
 Made with ❤️ by Shivam
