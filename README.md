@@ -38,7 +38,7 @@ ShopZone is a full-featured MERN stack e-commerce application built with a clean
 
 ### Clone the repo
 ```bash
-git clone https://github.com/your-username/E-Commerce-MERN.git
+git clone https://github.com/Shivam20202/E-Commerce-MERN.git
 cd E-Commerce-MERN
 ```
 
@@ -118,27 +118,6 @@ server/
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
-```
-
-## 🛠️ Getting Started
-
-1. Clone the repository:
-
-```
-git clone https://github.com/Shivam20202/E-Commerce-MERN.git
-cd shopzone/client
-```
-
-2. Install dependencies:
-
-```
-npm install
-```
-
-3. Start the development server:
-
-```
-npm run dev
 ```
 
 
