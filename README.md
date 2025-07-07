@@ -44,7 +44,7 @@ client/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/shopzone.git
+git clone https://github.com/Shivam20202/E-Commerce-MERN.git
 cd shopzone/client
 ```
 
